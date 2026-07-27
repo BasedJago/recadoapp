@@ -102,6 +102,9 @@ C:\SUED\RecadoApp\
 ├── log.txt                # Log do aplicativo
 └── log_erro.txt           # Log de erros
 ```
+A senha padrão do administrador para entrar é
+login: admin
+senha: admin
 
 ## 📄 Licença
 
